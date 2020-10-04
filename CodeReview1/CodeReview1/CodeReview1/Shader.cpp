@@ -1,5 +1,5 @@
+// code obtained from https://learnopengl.com and modified by me
 #include <glad/glad.h> // include glad to get all the required OpenGL headers
-
 #include <string>
 #include <fstream>
 #include <sstream>
