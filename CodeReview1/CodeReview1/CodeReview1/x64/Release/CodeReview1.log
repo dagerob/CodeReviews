@@ -1,1 +1,2 @@
-﻿  CodeReview1.vcxproj -> D:\DanielPers\Master\Semester 1\EchtzeitGrafik\CodeReview1\CodeReview1\x64\Release\CodeReview1.exe
+﻿  glad.c
+c1 : fatal error C1083: Cannot open source file: '..\..\..\GLAD\src\glad.c': No such file or directory

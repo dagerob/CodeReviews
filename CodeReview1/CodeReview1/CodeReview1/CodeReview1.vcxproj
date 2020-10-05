@@ -70,12 +70,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\DanielPers\Master\Semester 1\EchtzeitGrafik\CodeReview1\CodeReview1\CodeReview1\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\DanielPers\Master\Semester 1\EchtzeitGrafik\CodeReview1\CodeReview1\CodeReview1\libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\DanielPers\GitHub\CodeReviews\CodeReview1\CodeReview1\CodeReview1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\DanielPers\GitHub\CodeReviews\CodeReview1\CodeReview1\CodeReview1\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\DanielPers\Master\Semester 1\EchtzeitGrafik\CodeReview1\CodeReview1\CodeReview1\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\DanielPers\Master\Semester 1\EchtzeitGrafik\CodeReview1\CodeReview1\CodeReview1\libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\DanielPers\GitHub\CodeReviews\CodeReview1\CodeReview1\CodeReview1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\DanielPers\GitHub\CodeReviews\CodeReview1\CodeReview1\CodeReview1\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

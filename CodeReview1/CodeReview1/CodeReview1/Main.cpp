@@ -226,8 +226,9 @@ void init() {
 	glfwSetKeyCallback(window, speedCallback);
 
 	// we load and compile the vertex and fragment shader to display the cubes in the scene
-	shaderProgram = new Shader("D:/DanielPers/Master/Semester 1/EchtzeitGrafik/CodeReview1/CodeReview1/CodeReview1/VertexShader.txt",
-		"D:/DanielPers/Master/Semester 1/EchtzeitGrafik/CodeReview1/CodeReview1/CodeReview1/FragmentShader.txt");
+	//shaderProgram = new Shader("D:/DanielPers/Master/Semester 1/EchtzeitGrafik/CodeReview1/CodeReview1/CodeReview1/VertexShader.txt",
+	//	"D:/DanielPers/Master/Semester 1/EchtzeitGrafik/CodeReview1/CodeReview1/CodeReview1/FragmentShader.txt");
+	shaderProgram = new Shader("VertexShader.txt","FragmentShader.txt");
 	// we enable the depht buffer
 	glEnable(GL_DEPTH_TEST);
 
